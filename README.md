@@ -11,3 +11,5 @@ CJSON.pack(someJSON);
 
 CJSON.unpack(someCJSON);
 ```
+
+http://stevehanov.ca/blog/index.php?id=104
